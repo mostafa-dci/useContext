@@ -1,0 +1,13 @@
+.App {
+  /* width: 90%; */
+  min-height: 90vh;
+  background-color: gray;
+  /* margin: 10px auto; */
+  border-radius: 10px;
+}
+
+.App h1{
+  text-align: center;
+}
+
+
